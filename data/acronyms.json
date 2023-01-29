@@ -1,10 +1,5 @@
 [
-  {
-    "Abbreviation": "ACK",
-    "Definition": "ACKnowledgement",
-    "Usage": "Agreed/accepted change. A loose ACK can be confusing. It's best to avoid them unless it's a documentation/comment only change in which case there is nothing to test/verify; therefore the tested/untested distinction is not there",
-    "Example": "<a href=\"https://github.com/Humanizr/Humanizer/pull/1134#discussion_r737686977\">Humanizer</a>, <a href=\"https://github.com/bitcoin/bitcoin/issues/6100\">Bitcoin</a>"
-  },
+  
   {
     "Abbreviation": "ADR",
     "Definition": "Architectural Decision Record",
